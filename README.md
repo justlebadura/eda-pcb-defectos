@@ -8,8 +8,8 @@ de investigación sobre **inspección automática de PCB con modelos de IA**.
 
 | Estudiante | Código | GitHub |
 |---|---|---|
-| Juan Diego Garzón Cordero | 2254270 | [@JD202730](https://github.com/JD202730) |
-| Yusmary Tatiana Castañeda García | 2254254 | [@YusTati27](https://github.com/YusTati27) |
+| Juan Diego Garzón Cordero | 2254270 | |
+| Yusmary Tatiana Castañeda García | 2254254 | |
 | Libardo Enrique Argumedo Mejía | 2264084 | — |
 
 ## Pregunta de investigación
